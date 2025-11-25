@@ -1,0 +1,29 @@
+numero,titolo,data,dayISO
+1,"Course Introduction",23/09/2025,2025-09-23
+2,"Introduction to Data Science [Part 1]",24/09/2025,2025-09-24
+3,"Introduction to Data science [Part 2]. Data warehouse: Introduction; Design [Part 1]",25/09/2025,2025-09-25
+4,"Data warehouse: Design [Part 2]",30/09/2025,2025-09-30
+5,"Data warehouse: Design [Part 3]",01/10/2025,2025-10-01
+6,"Data warehouse: Design [Part 4]; OLAP; Extended SQL [Part 1]",02/10/2025,2025-10-02
+7,"Data warehouse: Extended SQL [Part 2]",06/10/2025,2025-10-06
+8,"Extended SQL Oracle and exercises",07/10/2025,2025-10-07
+9,"Data warehouse: Materialized view; ETL [Part 1]",08/10/2025,2025-10-08
+11,"Data warehouse: ETL [Part 2]; Data Lakes; Data mining process",14/10/2025,2025-10-14
+12,"Data preparation [Part 1]",15/10/2025,2025-10-15
+13,"DW and extended SQL exercises",16/10/2025,2025-10-16
+14,"Exercise on Materialized View",21/10/2025,2025-10-21
+15,"Exercise on Data warehouse and extended SQL (Teacher A. Fiori)",22/10/2025,2025-10-22
+16,"Data preparation [Part 2]",23/10/2025,2025-10-23
+17,"Association rules [Part 1]",28/10/2025,2025-10-28
+18,"Association rules [Part 2]",29/10/2025,2025-10-29
+19,"Association rules [Part 3]; Classification methods [Part 1]",30/10/2025,2025-10-30
+20,"Lab2",03/11/2025,2025-11-03
+21,"Classification methods [Part 2]",04/11/2025,2025-11-04
+23,"Classification methods [Part 3]",05/11/2025,2025-11-05
+24,"Classification methods [Part 4]",06/11/2025,2025-11-06
+25,"Classification methods [Part 5]; Clustering methods [Part 1]",11/11/2025,2025-11-11
+26,"Clustering methods [Part 2]",12/11/2025,2025-11-12
+27,"Clustering methods and valudation [Part 3]; DBMS: Components; Buffer Manager; Physical Access to Data [Part 1] -- In the recording, please skip the middle section related to the break.",13/11/2025,2025-11-13
+28,"Physical Access to Data [Part 2]",18/11/2025,2025-11-18
+29,"Physical Access to Data [Part 3]. Query Optimizer: Introduction; Algebraic optimization [Part 1]",19/11/2025,2025-11-19
+30,"Query Optimizer: Algebraic optimization [Part 2]; Cost based optimization: Data profiles, Access operators",20/11/2025,2025-11-20
